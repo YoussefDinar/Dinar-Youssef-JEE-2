@@ -48,8 +48,5 @@ public class BankAccountGraphQLController {
         return true;
     }
 
-    @MutationMapping
-    public BankAccount addAccount(BankAccount bankAccount){
-       return bankAccountRepository.save(bankAccount);
-    }
+ 
 }
