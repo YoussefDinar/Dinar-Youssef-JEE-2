@@ -19,20 +19,14 @@
 ![13 PRJCTION](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/1c1419d2-99e4-4db2-bf5d-505d4afe6117)
 ![14 banackkresp](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/0928015a-f699-4597-abf6-484535e96c49)
 ![15 bkaccsrvimpl](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/a59e6076-2268-453f-992e-9c96cc2a72dc)
+GRAPHQL:
 
 
+![16](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/00d65272-c22b-4f6b-a4aa-1862b63e245e)
 
+![17](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/f0fc209d-2903-43ed-99fa-a28dd1324d15)
 
+![18](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/26f8b1ca-d48d-4abf-bddb-6dbb5198c1c2)
 
-
-
-
-
-
-
-
-
-
-
-
+![19](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/472c2768-ddc0-427d-a640-53f9174bbfe0)
 
