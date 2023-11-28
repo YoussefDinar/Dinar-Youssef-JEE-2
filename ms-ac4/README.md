@@ -15,12 +15,12 @@ Consul Discovery:
 ![sc1](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/91f8dc49-39dc-4851-aedf-a4c98e1a8243)
 
 
-ustomer-service
+Customer-service
 
 ![sc2](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/c8eac67f-c4c7-4b59-97da-b732eb27d1b2)
 ![sc3](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/d8462936-1642-44b3-af36-98f29562d588)
 
-test Refresh
+Test Refresh
 ![sc4 post restapi](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/53a207cd-644a-406f-8d3c-876415987b50)
 
 
