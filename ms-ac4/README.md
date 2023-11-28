@@ -6,6 +6,7 @@ Structure du projet:
 ![struct](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/90b5c4c9-f6fe-451b-a84e-847c8bfc7fb4)
 
 apres avoir executer consul avec : consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui -bind=(votre adress ip)
+
 Consul Discovery:
 
 ![sc1](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/91f8dc49-39dc-4851-aedf-a4c98e1a8243)
