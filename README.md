@@ -9,3 +9,7 @@ https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/ecom-application
 
 # Activité Pratique N° 4 (PART 1) :
 https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/ms-ac4
+
+# Activité Pratique N° 5 (PART 1) :
+https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/Angular-App
+
