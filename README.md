@@ -7,7 +7,7 @@ https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/bank-account-servi
 # Activité Pratique N° 3 :
 https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/ecom-application
 
-# Activité Pratique N° 4 (PART 1) + (Part3 screen  (push code pending) )  :
+# Activité Pratique N° 4 (PART 1) + (Part3 + part 4 the 4 is not tested yet (vault) )  :
 https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/ms-ac4
 
 rapport part1/3: https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/blob/main/ms-ac4/README.md
