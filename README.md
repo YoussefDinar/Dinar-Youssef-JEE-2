@@ -10,9 +10,9 @@ https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/ecom-application
 # Activité Pratique N° 4 (PART 1) + (Part3 screen  (push code pending) )  :
 https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/ms-ac4
 
-# Activité Pratique N° 5 (PART 1) :
-+https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/Angular-App
+# Activité Pratique N° 5 :
+https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/emsi-app
+rapport ac 5 : https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/blob/main/emsi-app/README.md
 
-+Rapport complet Activité Pratique N° 5  :
-https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/Angular-App#readme
+
 
