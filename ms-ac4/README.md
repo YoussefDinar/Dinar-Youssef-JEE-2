@@ -26,3 +26,8 @@ Test Refresh
 
 h2 console / Spring Cloud Gateway test
 ![sc5](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/21a72bbc-a959-4f02-a47f-99617bd69292)
+
+
+Summary and Feign Logs
+
+![prt3](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/e18c47e9-c298-42ca-9e37-caa3ebaaf668)
