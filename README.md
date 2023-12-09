@@ -7,10 +7,10 @@ https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/bank-account-servi
 # Activité Pratique N° 3 :
 https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/ecom-application
 
-# Activité Pratique N° 4 (Part 4)  :
+# Activité Pratique N° 4   :
 https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/ms-ac4
 
-rapport part 1-->4: https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/blob/main/ms-ac4/README.md
+rapport: https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/blob/main/ms-ac4/README.md
 
 # Activité Pratique N° 5 :
 https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/emsi-app
