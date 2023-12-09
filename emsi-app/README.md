@@ -13,20 +13,6 @@ Donnees JSON:
 
 Angular App
 
-![3](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/a73c42e5-8349-40c0-b767-efbffca6a1d2)
-![4](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/4795d575-5576-4f8a-a12b-984f474affa2)
-![5](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/cf23bfe4-c681-4e2f-b236-f167c87c367c)
-![6](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/2404173f-6f9e-4947-8035-5cb17c474f22)
-![7](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/54def542-a2dc-480e-9431-269ddd74ca5d)
-![8](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/f0a456eb-7527-4c74-b1f5-eb3ade581b0f)
-![9](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/892d186f-c990-4695-ac4f-7097ef26b456)
-
-
-
-
-
-PARTS 1/2/3
-
 ![login admin](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/b04d02bc-f20c-4049-a564-8a7d947c9c94)
 
 
