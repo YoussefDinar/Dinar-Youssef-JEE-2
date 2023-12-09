@@ -44,3 +44,27 @@ Partage des secrets:
 
 
 ![9prtgsec](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/303872bb-dabc-42d9-a458-77032c4d39e6)
+
+
+Front - end (ANGULAR)
+
+
+
+![products](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/2b6b927d-6afe-4eff-b882-71c68a141c72)
+
+
+![customers](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/5630020c-a3a8-4ac4-9db8-c612a7bea221)
+
+
+![orders](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/5da8eac1-ead9-44ca-8f04-3d5d77a4f7a4)
+
+
+![order details](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/2e6b6855-917c-473a-ae82-f97e838fa414)
+
+
+
+
+
+
+
+
