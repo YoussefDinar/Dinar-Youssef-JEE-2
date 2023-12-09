@@ -3,8 +3,7 @@
 
 Structure du projet:
 
-
-![prt4Arch](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/5f0aea97-0da6-499d-b953-07c27b9e28d9)
+![prj struct](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/8925cdc2-c6de-46af-802d-83e95f6c9234)
 
 
 apres avoir executer consul avec : consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui -bind=(votre adress ip)
