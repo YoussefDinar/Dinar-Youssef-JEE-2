@@ -1,4 +1,4 @@
-# Activité Pratique N° 4 : Architectures Micro-services avec Spring Cloud 
+# Activité Pratique N° 4 FULL PARTS: Architectures Micro-services avec Spring Cloud 
 -application de e-commerce basée sur les micro services
 
 Structure du projet:
