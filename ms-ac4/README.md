@@ -1,4 +1,4 @@
-# Activité Pratique N° 4 (PART 1) : Architectures Micro-services avec Spring Cloud 
+# Activité Pratique N° 4 : Architectures Micro-services avec Spring Cloud 
 -application de e-commerce basée sur les micro services
 
 Structure du projet:
@@ -31,3 +31,11 @@ h2 console / Spring Cloud Gateway test
 Summary and Feign Logs
 
 ![prt3](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/e18c47e9-c298-42ca-9e37-caa3ebaaf668)
+
+
+![7vault test](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/b7070630-71db-43c7-9d9f-aa2334139567)
+
+
+![8 test billingApp](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/99a63da6-e3bd-41c2-8f2d-571c1209ae4c)
+
+
