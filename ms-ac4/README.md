@@ -40,3 +40,7 @@ TEST VAULT billing-service
 ![8 test billingApp](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/99a63da6-e3bd-41c2-8f2d-571c1209ae4c)
 
 
+Partage des secrets:
+
+
+![9prtgsec](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/303872bb-dabc-42d9-a458-77032c4d39e6)
