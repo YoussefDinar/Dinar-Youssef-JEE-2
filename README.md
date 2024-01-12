@@ -23,3 +23,5 @@ https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/spring-cloud-strea
 
 
 # Activité Pratique N° 7:
+
+https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/blob/main/Keycloak%2023/README.md
