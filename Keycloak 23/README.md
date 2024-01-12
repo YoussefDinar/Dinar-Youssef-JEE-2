@@ -1,7 +1,7 @@
-#Activité Pratique N°7 : Sécurité Oauth2, OIDC, JWT, Keycloak
-#encadrant : Mohamed YOUSSFI
+# Activité Pratique N°7 : Sécurité Oauth2, OIDC, JWT, Keycloak
+# encadrant : Mohamed YOUSSFI
 
-#ETAT D'AVANCEMENT (PART 1)
+# ETAT D'AVANCEMENT (PART 1)
 
 create admin:
 
