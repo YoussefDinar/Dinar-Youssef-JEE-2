@@ -20,3 +20,6 @@ rapport ac 5 : https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/blob/main/ems
 # Activité Pratique N° 6:
 
 https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/tree/main/spring-cloud-streams-functions-kafka#readme
+
+
+# Activité Pratique N° 7:
