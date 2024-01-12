@@ -3,7 +3,9 @@
 
 # ETAT D'AVANCEMENT (PART 1)
 
-create admin:
+
+
+run kc + create admin:
 
 ![adminKC](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/f32d4216-f5fa-4822-b71d-7197f8c7da05)
 
