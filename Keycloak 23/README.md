@@ -1,7 +1,7 @@
 # Activité Pratique N°7 : Sécurité Oauth2, OIDC, JWT, Keycloak
 # encadrant : Mohamed YOUSSFI
 
-# ETAT D'AVANCEMENT (PART 1)
+#  (PART 1)
 
 
 
@@ -65,8 +65,9 @@ authentification avec (client id + client secret):
 ![authclisec](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/56ffaaa4-3fcc-4ff4-8058-4f80a3cb91bf)
 
 
+desactivation de Client authentication
 
-
+![descliauth](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/0e2c5d8c-71ad-4c0b-bcd7-e21657f9c93b)
 
 
 
