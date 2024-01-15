@@ -52,6 +52,19 @@ authentification avec refresh_token:
 ![authrefrtok](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/028217f2-9f1c-411c-b3c3-ea8051da2836)
 
 
+enable Client authentication (client id + client secret):
+
+![enable cli auth](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/98fa2845-1e99-4523-ad38-bba214babcf3)
+
+
+![client sec](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/a3ee7088-bcb4-4c20-a81d-5171d162efff)
+
+
+
+
+
+
+
 
 
 
