@@ -31,3 +31,12 @@ role mapping:
 test authentification (POSTMAN)
 
 ![accessToken](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/707c8e35-a7fe-4969-866b-28b4b49cccee)
+
+
+decodage du token (jwt)
+
+![image](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/6e1388a1-6165-4b07-81fc-5a563e777b20)
+
+
+![jwtsc2](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/b8bb4cb5-f0e0-4115-92fe-d194b3b718b6)
+
