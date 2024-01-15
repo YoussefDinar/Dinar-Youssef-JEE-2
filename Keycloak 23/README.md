@@ -27,3 +27,7 @@ role mapping:
 
 ![rolemapping](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/e396873c-df2a-4b32-8445-fcfb0d9a56d6)
 
+
+test authentification (POSTMAN)
+
+![accessToken](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/707c8e35-a7fe-4969-866b-28b4b49cccee)
