@@ -60,7 +60,9 @@ enable Client authentication (client id + client secret):
 ![client sec](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/a3ee7088-bcb4-4c20-a81d-5171d162efff)
 
 
+authentification avec (client id + client secret):
 
+![authclisec](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/56ffaaa4-3fcc-4ff4-8058-4f80a3cb91bf)
 
 
 
