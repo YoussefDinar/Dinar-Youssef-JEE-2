@@ -2,7 +2,7 @@
 # encadrant : Mohamed YOUSSFI
 
 #  (PART 1)
-
+# Sécuriser les microservices Spring et les applications Angular à l'aide d'Oauth2 OIDC avec Keycloak
 
 
 run kc + create admin:
@@ -68,6 +68,19 @@ authentification avec (client id + client secret):
 desactivation de Client authentication
 
 ![descliauth](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/0e2c5d8c-71ad-4c0b-bcd7-e21657f9c93b)
+
+
+
+
+#  (PART 2)
+
+# Application basée sur les micro-services en utilsant Oauth 2, OIDC, Keycloak :
+
+
+
+h2 console + page html Customers:
+
+![h2consolehtmlcust](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/7e5db0aa-4719-4a73-be83-5b18aac93feb)
 
 
 
