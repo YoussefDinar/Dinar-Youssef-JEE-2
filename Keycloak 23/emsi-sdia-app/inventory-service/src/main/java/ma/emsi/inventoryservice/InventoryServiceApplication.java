@@ -22,21 +22,21 @@ public class InventoryServiceApplication {
 		return args -> {
 			productRepository.save(Product.builder()
 					.id(UUID.randomUUID().toString())
-					.name("Product 1")
-					.quantity(7)
-					.price(2540)
+					.name("Computer 1")
+					.quantity(13)
+					.price(3200)
 					.build());
 			productRepository.save(Product.builder()
 					.id(UUID.randomUUID().toString())
-					.name("Product 2")
-					.quantity(15)
-					.price(9852)
+					.name("Computer 2")
+					.quantity(3)
+					.price(12000)
 					.build());
 			productRepository.save(Product.builder()
 					.id(UUID.randomUUID().toString())
-					.name("Product 3")
-					.quantity(10)
-					.price(870)
+					.name("Computer 3")
+					.quantity(5)
+					.price(36200)
 					.build());
 		};
 	}
