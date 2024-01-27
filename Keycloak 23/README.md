@@ -102,15 +102,19 @@ interface Login:
 ![6](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/6aa94f19-6c43-4928-bd3f-c3c7c830324c)
 
 
+Login avec le compte Github :
+
+![66](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/fb369357-3501-4e37-ab46-ea1163705519)
 
 
+Set require SSL to none:
+
+![8 reqssl none](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/0965b7c1-d3af-40ce-8831-3641b3dcd68e)
 
 
+Configuration du client glsid-bdcc-customer-client
 
-
-
-
-
+![10 ](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/8c30abbc-13a5-421e-a1f1-4c2e02fc3a41)
 
 
 
