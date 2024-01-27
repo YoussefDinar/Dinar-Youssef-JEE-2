@@ -107,6 +107,17 @@ Login avec le compte Github :
 ![66](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/fb369357-3501-4e37-ab46-ea1163705519)
 
 
+La liste des clients (localhost:8090/customers):
+
+![cs ty](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/5d9b4827-693b-4756-8134-39f50d6cf11f)
+
+
+
+La liste des produits (localhost:8090/products):
+
+![p ty](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/87074344-2477-4b57-b505-31c032feb6e9)
+
+
 Set require SSL to none:
 
 ![8 reqssl none](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/0965b7c1-d3af-40ce-8831-3641b3dcd68e)
