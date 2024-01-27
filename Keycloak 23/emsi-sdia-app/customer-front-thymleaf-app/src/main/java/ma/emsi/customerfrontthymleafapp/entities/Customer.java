@@ -7,16 +7,9 @@ import jakarta.persistence.Id;
 import lombok.*;
 
 @Entity
-@AllArgsConstructor
-@Getter
-@Setter
-@ToString
-@Builder
-@NoArgsConstructor
+@NoArgsConstructor @AllArgsConstructor @Getter @Setter @ToString @Builder
 public class Customer {
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-
+    @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String name;
     private String email;
