@@ -19,9 +19,9 @@ public class CustomerFrontThymleafAppApplication {
     @Bean
     CommandLineRunner commandLineRunner(CustomerRepository customerRepository){
         return args -> {
-            customerRepository.save(Customer.builder().name("Customer 1").email("Customer1@gmail.com").build());
-            customerRepository.save(Customer.builder().name("Customer 2").email("Customer2@gmail.com").build());
-            customerRepository.save(Customer.builder().name("Customer 3").email("Customer3@gmail.com").build());
+            customerRepository.save(Customer.builder().name("youssef").email("youssef@gmail.com").build());
+            customerRepository.save(Customer.builder().name("Abderahmane").email("Abderahmane@gmail.com").build());
+            customerRepository.save(Customer.builder().name("amine").email("amine@gmail.com").build());
         };
     }
 }
