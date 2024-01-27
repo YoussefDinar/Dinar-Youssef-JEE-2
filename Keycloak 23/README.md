@@ -117,8 +117,14 @@ Configuration du client glsid-bdcc-customer-client
 ![10 ](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/8c30abbc-13a5-421e-a1f1-4c2e02fc3a41)
 
 
+La liste des clients (localhost:4200/customers):
+
+![customers an](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/b9fce7e9-3f40-47e1-91af-c6b4bcf9689c)
 
 
 
+La liste des produits (localhost:4200/products) :
+
+![p2 an](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/243a3e38-eb54-4944-8c0a-cb4c1002464d)
 
 
