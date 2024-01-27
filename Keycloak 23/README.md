@@ -83,4 +83,38 @@ h2 console + page html Customers:
 ![h2consolehtmlcust](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/7e5db0aa-4719-4a73-be83-5b18aac93feb)
 
 
+Creation client OAuth:
+
+![1](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/bd17f811-fc9c-44f5-b369-0e167c9ea7fd)
+
+Github Client ID + Client secret:
+
+![4](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/5922f275-4db2-4598-8f50-5f7b1026095b)
+
+
+Keycloack Authentication policies:
+
+![5](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/fcecdc52-2608-47d2-813d-56b96e4f0996)
+
+
+interface Login:
+
+![6](https://github.com/YoussefDinar/Dinar-Youssef-JEE-2/assets/94021293/6aa94f19-6c43-4928-bd3f-c3c7c830324c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
